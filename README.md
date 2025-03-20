@@ -1,6 +1,6 @@
-# AutoDeploy Discord Bot
+# AutoDeploy from Github Repository
 
-An FastAPI application to automatically deploy Discord bot on self-hosted server upon updates.
+An FastAPI application to automatically deploy Github Repositories on self-hosted server upon updates.
 
 ## Setup
 
