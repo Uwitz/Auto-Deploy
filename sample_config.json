@@ -1,0 +1,11 @@
+{
+    "repositories": {
+        "username/repo": {
+            "path": "/path/to/repo",
+            "branch": "main",
+            "commands": [
+                ""
+            ]
+        }
+    }
+}
